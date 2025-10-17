@@ -3,6 +3,6 @@
 This package provides utilities for searching YouTube videos.
 """
 
-from .search import search_youtube, VideoResult, YouTubeSearchError
+from .youtube_search import search_youtube, VideoResult, YouTubeSearchError
 
 __all__ = ['search_youtube', 'VideoResult', 'YouTubeSearchError']

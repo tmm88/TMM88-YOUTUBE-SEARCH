@@ -1,3 +1,9 @@
+"""
+YouTube Search Module
+
+Provides functionality to search YouTube videos using either the Data API or HTML parsing.
+"""
+
 from dataclasses import dataclass
 from typing import List, Optional
 import requests
