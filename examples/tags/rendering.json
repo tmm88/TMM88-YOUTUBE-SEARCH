@@ -1,40 +1,77 @@
 {
     "name": "Rendering and Visualization",
     "tags": {
-        "rendering_engines": [
-            "V-Ray Advanced",
-            "Arnold Renderer",
-            "Redshift Engine",
-            "Octane Render",
-            "RenderMan Pro"
+        "engine_mastery": [
+            "V-Ray Production Pipeline",
+            "Arnold Advanced Techniques",
+            "Redshift GPU Pipeline",
+            "Octane Node Systems",
+            "RenderMan Production",
+            "Corona Advanced Setup",
+            "Maxwell Material System",
+            "Cycles Advanced Nodes",
+            "Renderer Integration",
+            "Custom Render Pipeline"
         ],
-        "lighting": [
-            "Advanced Lighting",
-            "HDR Lighting",
-            "Studio Lighting",
-            "Natural Light",
-            "Light Composition"
+        "advanced_lighting": [
+            "Global Illumination Pro",
+            "Physical Sky Systems",
+            "Studio Lighting Setup",
+            "HDR Environment Maps",
+            "Caustics Advanced",
+            "Light Groups System",
+            "IES Light Profiles",
+            "Volumetric Lighting",
+            "Color Management",
+            "Light Mixing Advanced"
         ],
-        "materials": [
-            "PBR Materials",
-            "Shader Creation",
-            "Material Systems",
-            "Texture Workflow",
-            "Material Optimization"
+        "material_development": [
+            "PBR Material System",
+            "Procedural Materials",
+            "Advanced Shading",
+            "Material Layering",
+            "Substance Integration",
+            "Complex Material Networks",
+            "Custom Material Dev",
+            "Material Optimization",
+            "Texture Management",
+            "Material Animation"
         ],
-        "visualization": [
-            "Architectural Viz",
-            "Product Visualization",
-            "Scientific Viz",
-            "Data Visualization",
-            "Medical Visualization"
+        "architectural_viz": [
+            "Exterior Visualization",
+            "Interior Rendering",
+            "Lighting Analysis",
+            "Material Realism",
+            "Site Context Viz",
+            "Landscape Visualization",
+            "Construction Details",
+            "Architectural Animation",
+            "VR Architecture",
+            "Real-time Archviz"
         ],
-        "optimization": [
-            "Render Optimization",
-            "Scene Management",
-            "Resource Usage",
-            "Batch Rendering",
-            "Network Rendering"
+        "technical_viz": [
+            "Engineering Visualization",
+            "Scientific Data Viz",
+            "Medical Visualization",
+            "Data Analysis Viz",
+            "Technical Animation",
+            "Process Visualization",
+            "Educational Viz",
+            "Research Visualization",
+            "Simulation Viz",
+            "Interactive Technical"
+        ],
+        "production_pipeline": [
+            "Render Farm Management",
+            "Network Rendering",
+            "Scene Optimization",
+            "Asset Management",
+            "Version Control",
+            "Render Automation",
+            "Quality Control",
+            "Pipeline Integration",
+            "Performance Analysis",
+            "Resource Management"
         ]
     }
 }

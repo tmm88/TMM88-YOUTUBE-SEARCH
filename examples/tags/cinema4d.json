@@ -1,40 +1,77 @@
 {
     "name": "Cinema 4D",
     "tags": {
-        "modeling": [
-            "C4D Modeling",
-            "Parametric Modeling",
-            "Character Creation",
-            "Hard Surface Modeling",
-            "Organic Modeling"
+        "modeling_techniques": [
+            "C4D Parametric Modeling",
+            "Volume Modeling Advanced",
+            "Procedural Modeling C4D",
+            "Hard Surface Techniques",
+            "Organic Sculpting C4D",
+            "Character Topology",
+            "Boolean Operations Pro",
+            "Subdivision Modeling",
+            "CAD Integration C4D",
+            "Modeling Optimization"
         ],
-        "animation": [
-            "C4D Animation",
-            "Character Animation",
-            "Motion Graphics",
-            "Dynamics System",
-            "Xpresso Animation"
+        "motion_design": [
+            "Advanced MoGraph",
+            "Fields System Pro",
+            "Effector Programming",
+            "Matrix Operations",
+            "Cloner Advanced",
+            "Voronoi Fracture",
+            "Inheritance Effects",
+            "MoGraph Dynamics",
+            "Custom Effectors",
+            "Animation Optimization"
         ],
-        "rendering": [
-            "Physical Renderer",
-            "Octane for C4D",
-            "Redshift C4D",
-            "Arnold Renderer",
-            "Rendering Optimization"
+        "character_animation": [
+            "Character Rigging Pro",
+            "Advanced Weighting",
+            "Facial Rigging C4D",
+            "Muscle Systems",
+            "Joint Deformation",
+            "Animation Workflow",
+            "Motion Capture C4D",
+            "Character Setup",
+            "Animation Controls",
+            "Pose Management"
         ],
-        "materials": [
-            "Material Creation",
-            "Texture Workflow",
-            "Shader Development",
-            "Material Animation",
-            "Procedural Textures"
+        "dynamics_simulation": [
+            "Rigid Body Dynamics",
+            "Soft Body Systems",
+            "Cloth Simulation Pro",
+            "Particle Dynamics",
+            "Hair Dynamics",
+            "Force Fields Advanced",
+            "Collision Detection",
+            "Dynamic Constraints",
+            "Simulation Cache",
+            "Performance Optimization"
         ],
-        "workflow": [
-            "Project Setup",
-            "Asset Management",
-            "Pipeline Integration",
-            "Scene Organization",
-            "Production Workflow"
+        "rendering_engines": [
+            "Redshift Advanced",
+            "Octane Integration",
+            "Arnold Rendering",
+            "Physical Renderer Pro",
+            "Corona Integration",
+            "Multi-Pass Setup",
+            "Render Farm Setup",
+            "GPU Rendering",
+            "Render Optimization",
+            "Light Setup Pro"
+        ],
+        "programming_automation": [
+            "Python Scripting C4D",
+            "Xpresso Advanced",
+            "Node-based Systems",
+            "Custom Tags C4D",
+            "Plugin Development",
+            "Asset Automation",
+            "Pipeline Tools",
+            "Scene Management",
+            "Batch Processing",
+            "Workflow Automation"
         ]
     }
 }

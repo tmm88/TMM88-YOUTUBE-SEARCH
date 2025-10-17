@@ -1,40 +1,77 @@
 {
     "name": "Godot Engine",
     "tags": {
-        "core": [
-            "Godot 4 Advanced",
-            "Godot Performance Tips",
-            "GDScript Advanced",
-            "Godot C# Advanced",
-            "Godot Engine Architecture"
+        "core_development": [
+            "GDExtension Development",
+            "Custom Modules Godot",
+            "Memory Management",
+            "Performance Optimization",
+            "Multithreading Godot",
+            "Custom Build Setup",
+            "Engine Feature Extension",
+            "Plugin Architecture",
+            "Scene System Advanced",
+            "Resource Management Pro"
         ],
-        "graphics": [
-            "Godot Shader Programming",
-            "Custom Rendering Pipeline",
-            "Visual Effects Godot",
-            "Post Processing Advanced",
-            "3D Graphics Godot"
-        ],
-        "game_systems": [
-            "Godot State Machine",
-            "Resource System Advanced",
-            "Scene System Pro",
+        "gdscript_advanced": [
+            "GDScript Optimization",
+            "Type Hints Advanced",
+            "Code Generation",
+            "Static Typing Pro",
             "Signal System Advanced",
-            "Custom Game Framework"
+            "Resource Scripting",
+            "Custom Types GDScript",
+            "Script Templates",
+            "Dependency Injection",
+            "Code Architecture"
         ],
-        "physics": [
-            "Godot Physics System",
-            "Custom Physics Integration",
-            "Collision Detection Advanced",
-            "Rigid Body Programming",
-            "Physics Based Games"
+        "rendering_graphics": [
+            "Custom Shaders GLSL",
+            "Rendering Pipeline",
+            "Post Processing Effects",
+            "Visual Shader Graph",
+            "Material System Pro",
+            "Vulkan Features",
+            "Custom Render Passes",
+            "Particle Systems Pro",
+            "Environment Effects",
+            "Graphics Optimization"
         ],
-        "animation": [
-            "Animation Tree Advanced",
-            "Skeletal Animation Godot",
-            "Animation State Machine",
-            "Procedural Animation",
-            "Character Animation Pro"
+        "game_framework": [
+            "State Machine Design",
+            "Resource System Pro",
+            "Scene Composition",
+            "Node Architecture",
+            "Game Systems Design",
+            "Save System Advanced",
+            "Input Management",
+            "UI Framework",
+            "Audio System Pro",
+            "Network Framework"
+        ],
+        "physics_interaction": [
+            "Physics Engine Pro",
+            "Collision Systems",
+            "Rigid Body Advanced",
+            "Character Controller",
+            "Vehicle Physics",
+            "Physics Performance",
+            "Custom Physics Objects",
+            "Ragdoll Systems",
+            "Physics Based Puzzles",
+            "Physics Networking"
+        ],
+        "tool_development": [
+            "Custom Editor Tools",
+            "Editor Plugin Dev",
+            "Custom Inspectors",
+            "Tool Script Advanced",
+            "Asset Pipeline Tools",
+            "Debug Visualization",
+            "Scene Tree Tools",
+            "Build System Tools",
+            "Project Management",
+            "Editor Extension API"
         ]
     }
 }

@@ -1,0 +1,77 @@
+{
+    "name": "System Design and Architecture",
+    "tags": {
+        "distributed_systems": [
+            "Distributed Database Design",
+            "Consensus Algorithms",
+            "Partition Tolerance",
+            "Consistency Patterns",
+            "Distributed Caching",
+            "Service Discovery",
+            "Load Distribution",
+            "Replication Strategies",
+            "Distributed Tracing",
+            "Fault Tolerance Design"
+        ],
+        "scalability_patterns": [
+            "Horizontal Scaling Design",
+            "Database Sharding",
+            "Load Balancing Patterns",
+            "Caching Strategies",
+            "Queue-Based Design",
+            "Write-Ahead Logging",
+            "Read Replicas Pattern",
+            "Connection Pooling",
+            "Asynchronous Processing",
+            "Rate Limiting Design"
+        ],
+        "system_reliability": [
+            "High Availability Design",
+            "Failover Strategies",
+            "Circuit Breaker Pattern",
+            "Bulkhead Pattern",
+            "Retry Mechanisms",
+            "Dead Letter Queues",
+            "Health Check Systems",
+            "Monitoring Architecture",
+            "Disaster Recovery",
+            "Backup Strategies"
+        ],
+        "performance_optimization": [
+            "Performance Modeling",
+            "Bottleneck Analysis",
+            "Resource Optimization",
+            "Query Optimization",
+            "Network Performance",
+            "Memory Management",
+            "CPU Optimization",
+            "I/O Performance",
+            "Cache Optimization",
+            "Thread Management"
+        ],
+        "security_architecture": [
+            "Authentication Design",
+            "Authorization Systems",
+            "Encryption Strategies",
+            "Security Protocols",
+            "Access Control Design",
+            "Threat Modeling",
+            "Security Patterns",
+            "Data Protection",
+            "API Security",
+            "Network Security"
+        ],
+        "data_architecture": [
+            "Data Modeling Patterns",
+            "Storage Architecture",
+            "Data Pipeline Design",
+            "ETL Architecture",
+            "Data Warehouse Design",
+            "Data Lake Architecture",
+            "Stream Processing",
+            "Data Governance",
+            "Master Data Management",
+            "Data Integration Patterns"
+        ]
+    }
+}

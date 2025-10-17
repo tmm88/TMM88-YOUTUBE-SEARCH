@@ -1,0 +1,77 @@
+{
+    "name": "Mobile Development",
+    "tags": {
+        "ios_development": [
+            "Swift Architecture Patterns",
+            "iOS Performance Optimization",
+            "SwiftUI Advanced",
+            "Core Data Advanced",
+            "iOS Security Patterns",
+            "iOS Animation Systems",
+            "Network Layer Design",
+            "Memory Management iOS",
+            "Combine Framework",
+            "XCode Cloud CI/CD"
+        ],
+        "android_development": [
+            "Kotlin Coroutines Advanced",
+            "Android Jetpack Pro",
+            "Compose UI Advanced",
+            "Android Architecture",
+            "Performance Profiling",
+            "Custom View Development",
+            "WorkManager Advanced",
+            "Android Security",
+            "Room Database Pro",
+            "Material Design 3"
+        ],
+        "cross_platform": [
+            "React Native Advanced",
+            "Flutter Architecture",
+            "Cross-Platform State",
+            "Native Modules",
+            "Performance Optimization",
+            "Custom Rendering",
+            "Platform Integration",
+            "Shared Code Strategy",
+            "Cross-Platform Testing",
+            "Build Automation"
+        ],
+        "app_architecture": [
+            "Clean Architecture Mobile",
+            "MVVM Implementation",
+            "State Management",
+            "Dependency Injection",
+            "Repository Pattern",
+            "Navigation Architecture",
+            "Module Design",
+            "Testing Strategy",
+            "Error Handling",
+            "Offline First Design"
+        ],
+        "mobile_backend": [
+            "API Design Mobile",
+            "Push Notification Systems",
+            "Mobile Authentication",
+            "Data Sync Strategies",
+            "Backend Integration",
+            "Mobile Analytics",
+            "Cloud Services Mobile",
+            "Real-time Communication",
+            "Mobile Security",
+            "Cache Strategies"
+        ],
+        "app_performance": [
+            "Memory Optimization",
+            "Battery Optimization",
+            "Network Efficiency",
+            "UI Performance",
+            "Launch Time Optimization",
+            "Background Processing",
+            "Image Loading Strategy",
+            "Animation Performance",
+            "Storage Optimization",
+            "Debug Tools Advanced"
+        ]
+    }
+}

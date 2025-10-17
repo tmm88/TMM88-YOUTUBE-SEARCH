@@ -1,0 +1,77 @@
+{
+    "name": "Stoner and Doom Metal",
+    "tags": {
+        "classic_stoner": [
+            "Sleep Guitar Tone",
+            "Kyuss Riff Analysis",
+            "Electric Wizard Sound",
+            "Fu Manchu Style",
+            "Monster Magnet Study",
+            "Orange Goblin Tone",
+            "Acid King Guitar Parts",
+            "Cathedral Doom Elements",
+            "Clutch Blues Analysis",
+            "Queens of the Stone Age Early"
+        ],
+        "doom_metal": [
+            "Candlemass Analysis",
+            "Saint Vitus Style",
+            "Pentagram Guitar Study",
+            "Trouble Riff Parts",
+            "Solitude Aeturnus",
+            "Warning Guitar Tone",
+            "Reverend Bizarre Style",
+            "The Obsessed Parts",
+            "Witchfinder General",
+            "Count Raven Analysis"
+        ],
+        "modern_stoner": [
+            "Elder Progressive Style",
+            "Windhand Guitar Study",
+            "Red Fang Technique",
+            "Uncle Acid Tone",
+            "Monolord Sound Design",
+            "All Them Witches Style",
+            "Kadavar Retro Sound",
+            "Earthless Improvisation",
+            "Stoned Jesus Analysis",
+            "The Sword Riff Study"
+        ],
+        "sludge_doom": [
+            "Eyehategod Style",
+            "Crowbar Riff Study",
+            "Acid Bath Analysis",
+            "Melvins Technique",
+            "Neurosis Sound",
+            "Buzzov*en Parts",
+            "Iron Monkey Style",
+            "Bongzilla Tone",
+            "Weedeater Bass Sound",
+            "Noothgrush Analysis"
+        ],
+        "psychedelic_elements": [
+            "YOB Progressive Style",
+            "Om Meditation Sound",
+            "Ufomammut Effects",
+            "Nebula Space Rock",
+            "Colour Haze Style",
+            "Causa Sui Analysis",
+            "Samsara Blues Experiment",
+            "My Sleeping Karma",
+            "35007 Soundscapes",
+            "Brant Bjork Desert Sound"
+        ],
+        "production_gear": [
+            "Tube Amp Settings",
+            "Fuzz Pedal Techniques",
+            "Orange Amp Tone",
+            "Bass Distortion Setup",
+            "Doom Guitar Production",
+            "Analog Recording Methods",
+            "Vintage Effect Chains",
+            "Down Tuning Setup",
+            "Room Mic Techniques",
+            "Mixing Stoner Metal"
+        ]
+    }
+}

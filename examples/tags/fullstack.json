@@ -1,0 +1,77 @@
+{
+    "name": "Full-Stack Development",
+    "tags": {
+        "modern_architecture": [
+            "Microservices Design Patterns",
+            "Event-Driven Architecture",
+            "Domain-Driven Design",
+            "CQRS Implementation",
+            "Serverless Architecture",
+            "API Gateway Patterns",
+            "Service Mesh Implementation",
+            "Cloud-Native Architecture",
+            "Distributed Systems Design",
+            "Hexagonal Architecture"
+        ],
+        "backend_systems": [
+            "GraphQL Advanced",
+            "REST API Best Practices",
+            "gRPC Implementation",
+            "Message Queue Systems",
+            "Database Optimization",
+            "Cache Strategy Design",
+            "Auth System Design",
+            "Rate Limiting Patterns",
+            "File Storage Systems",
+            "Search Engine Integration"
+        ],
+        "frontend_patterns": [
+            "Micro-Frontend Architecture",
+            "State Management Patterns",
+            "Component Design Systems",
+            "Performance Optimization",
+            "PWA Implementation",
+            "SSR/SSG Strategies",
+            "Web Workers Advanced",
+            "Browser Storage Patterns",
+            "UI/UX Architecture",
+            "Frontend Security"
+        ],
+        "data_management": [
+            "Data Modeling Advanced",
+            "Multi-Database Strategy",
+            "Data Migration Patterns",
+            "Schema Evolution",
+            "Data Validation Systems",
+            "Query Optimization",
+            "Data Access Patterns",
+            "Caching Strategies",
+            "Data Consistency Patterns",
+            "Transaction Management"
+        ],
+        "devops_integration": [
+            "CI/CD Pipeline Design",
+            "Container Orchestration",
+            "Infrastructure as Code",
+            "Monitoring Solutions",
+            "Log Aggregation",
+            "Security Automation",
+            "Performance Monitoring",
+            "Deployment Strategies",
+            "Disaster Recovery",
+            "Configuration Management"
+        ],
+        "testing_quality": [
+            "Testing Strategy Design",
+            "Integration Testing",
+            "E2E Testing Framework",
+            "Performance Testing",
+            "Security Testing",
+            "Load Testing",
+            "API Testing",
+            "UI Automation",
+            "Test Data Management",
+            "Continuous Testing"
+        ]
+    }
+}

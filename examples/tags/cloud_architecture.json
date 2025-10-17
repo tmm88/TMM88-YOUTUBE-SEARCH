@@ -1,0 +1,77 @@
+{
+    "name": "Cloud Architecture",
+    "tags": {
+        "aws_advanced": [
+            "AWS Solution Architecture",
+            "EKS Advanced",
+            "Lambda Architecture",
+            "DynamoDB Advanced",
+            "AWS Security Design",
+            "CloudFormation Advanced",
+            "AWS Network Design",
+            "S3 Advanced Patterns",
+            "AWS Cost Optimization",
+            "AWS Service Integration"
+        ],
+        "azure_advanced": [
+            "Azure Solution Design",
+            "AKS Architecture",
+            "Azure Functions Pro",
+            "Cosmos DB Advanced",
+            "Azure Security",
+            "Azure DevOps Advanced",
+            "VNET Architecture",
+            "Azure Storage Patterns",
+            "Cost Management",
+            "Azure Integration"
+        ],
+        "gcp_advanced": [
+            "GCP Architecture",
+            "GKE Advanced",
+            "Cloud Functions Pro",
+            "BigQuery Advanced",
+            "GCP Security",
+            "Terraform GCP",
+            "GCP Networking",
+            "Cloud Storage Patterns",
+            "GCP Optimization",
+            "Service Integration"
+        ],
+        "cloud_native": [
+            "Kubernetes Advanced",
+            "Service Mesh Design",
+            "Cloud Native Patterns",
+            "Istio Advanced",
+            "Container Security",
+            "Microservices Design",
+            "Serverless Architecture",
+            "Cloud Native Storage",
+            "Observability Design",
+            "GitOps Implementation"
+        ],
+        "multi_cloud": [
+            "Multi-Cloud Strategy",
+            "Hybrid Cloud Design",
+            "Cloud Migration",
+            "Cross-Cloud Security",
+            "Multi-Cloud Storage",
+            "Identity Management",
+            "Network Design",
+            "DR Strategy",
+            "Cost Management",
+            "Operations Management"
+        ],
+        "cloud_security": [
+            "Identity & Access",
+            "Network Security",
+            "Data Protection",
+            "Compliance Architecture",
+            "Security Automation",
+            "Threat Detection",
+            "Encryption Design",
+            "Security Monitoring",
+            "Incident Response",
+            "Security Operations"
+        ]
+    }
+}
