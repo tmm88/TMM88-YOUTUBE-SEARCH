@@ -1,0 +1,40 @@
+{
+    "name": "Godot Engine",
+    "tags": {
+        "core": [
+            "Godot 4 Advanced",
+            "Godot Performance Tips",
+            "GDScript Advanced",
+            "Godot C# Advanced",
+            "Godot Engine Architecture"
+        ],
+        "graphics": [
+            "Godot Shader Programming",
+            "Custom Rendering Pipeline",
+            "Visual Effects Godot",
+            "Post Processing Advanced",
+            "3D Graphics Godot"
+        ],
+        "game_systems": [
+            "Godot State Machine",
+            "Resource System Advanced",
+            "Scene System Pro",
+            "Signal System Advanced",
+            "Custom Game Framework"
+        ],
+        "physics": [
+            "Godot Physics System",
+            "Custom Physics Integration",
+            "Collision Detection Advanced",
+            "Rigid Body Programming",
+            "Physics Based Games"
+        ],
+        "animation": [
+            "Animation Tree Advanced",
+            "Skeletal Animation Godot",
+            "Animation State Machine",
+            "Procedural Animation",
+            "Character Animation Pro"
+        ]
+    }
+}

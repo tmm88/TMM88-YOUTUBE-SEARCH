@@ -1,0 +1,77 @@
+{
+    "name": "Electronic Music Production",
+    "tags": {
+        "sound_design": [
+            "Serum Sound Design Advanced",
+            "Phase Plant Sound Design",
+            "Wavetable Synthesis Professional",
+            "FM Synthesis Techniques",
+            "Granular Synthesis EDM",
+            "Modular Synthesis Electronic",
+            "Bass Sound Design",
+            "Lead Sound Design",
+            "Pad Sound Design",
+            "Effect Sound Design EDM"
+        ],
+        "arrangement_composition": [
+            "EDM Track Structure Analysis",
+            "Drop Design Advanced",
+            "Buildup Techniques",
+            "Breakdown Construction",
+            "Energy Flow Management",
+            "Tension and Release",
+            "Genre-specific Arrangement",
+            "Layering Techniques EDM",
+            "Melodic Development",
+            "Harmonic Progression EDM"
+        ],
+        "mixing_techniques": [
+            "EDM Bass Mixing",
+            "Kick Drum Processing",
+            "Multi-band Processing EDM",
+            "Sidechain Advanced",
+            "Vocal Processing EDM",
+            "Drum Bus Processing",
+            "Mix Bus Techniques",
+            "Spatial Processing EDM",
+            "Parallel Processing",
+            "Dynamic Range EDM"
+        ],
+        "mastering_edm": [
+            "Loudness Optimization EDM",
+            "Stereo Enhancement",
+            "Multi-band Compression",
+            "Limiting EDM Masters",
+            "Reference Track Matching",
+            "Club Mix Mastering",
+            "Streaming Platform Mastering",
+            "Vinyl Master Preparation",
+            "Digital Distribution Standards",
+            "Quality Control EDM"
+        ],
+        "production_workflow": [
+            "Template Organization EDM",
+            "Sample Management",
+            "Plugin Chain Presets",
+            "Project Structure EDM",
+            "Collaboration Workflow",
+            "Version Control Music",
+            "CPU Optimization",
+            "Creative Workflow",
+            "Production Efficiency",
+            "Studio Setup EDM"
+        ],
+        "technical_skills": [
+            "Digital Audio Theory",
+            "CPU Performance EDM",
+            "Plugin Development",
+            "Max for Live Programming",
+            "MIDI Programming",
+            "Automation Techniques",
+            "Sample Processing",
+            "Synthesis Theory",
+            "Signal Flow EDM",
+            "Audio Analysis Tools"
+        ]
+    }
+}

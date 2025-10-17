@@ -1,0 +1,40 @@
+{
+    "name": "Rendering and Visualization",
+    "tags": {
+        "rendering_engines": [
+            "V-Ray Advanced",
+            "Arnold Renderer",
+            "Redshift Engine",
+            "Octane Render",
+            "RenderMan Pro"
+        ],
+        "lighting": [
+            "Advanced Lighting",
+            "HDR Lighting",
+            "Studio Lighting",
+            "Natural Light",
+            "Light Composition"
+        ],
+        "materials": [
+            "PBR Materials",
+            "Shader Creation",
+            "Material Systems",
+            "Texture Workflow",
+            "Material Optimization"
+        ],
+        "visualization": [
+            "Architectural Viz",
+            "Product Visualization",
+            "Scientific Viz",
+            "Data Visualization",
+            "Medical Visualization"
+        ],
+        "optimization": [
+            "Render Optimization",
+            "Scene Management",
+            "Resource Usage",
+            "Batch Rendering",
+            "Network Rendering"
+        ]
+    }
+}

@@ -44,11 +44,95 @@ for video in results:
 
 The package includes example scripts for searching videos in specific domains:
 
+Graphics & Motion:
 - Computer Graphics (`examples/computer_graphics.py`)
-- Computer Music (`examples/computer_music.py`)
-- Full-Stack Development (`examples/fullstack_development.py`)
+- Abstract Motion Graphics (`examples/abstract_mograph.py`)
+- Cinema 4D Advanced (`examples/cinema4d_advanced.py`)
+- 3D Modeling Advanced (`examples/3d_modeling_advanced.py`)
+- Rendering & Visualization (`examples/rendering_visualization.py`)
 
-Each example demonstrates searching for curated lists of topics in their respective domains.
+Game Engines:
+- Unreal Engine (`examples/unreal_engine.py`)
+- Unity3D (`examples/unity3d.py`)
+- Godot (`examples/godot.py`)
+- CryEngine (`examples/cryengine.py`)
+- FMOD Integration (`examples/fmod_integration.py`)
+- Game Maker Studio (`examples/gamemaker.py`)
+- Mobile Engines (`examples/mobile_engines.py`)
+- Web Game Engines (`examples/web_engines.py`)
+
+Audio & Music:
+- Computer Music (`examples/computer_music.py`)
+- EDM Production (`examples/edm_production.py`)
+- Audio Production Advanced (`examples/audio_production_advanced.py`)
+
+Audio Programming & Interactive Systems:
+- Game Audio & Middleware (`examples/audio_middleware.py`)
+- Max/MSP Advanced (`examples/maxmsp_advanced.py`)
+- Pure Data Advanced (`examples/puredata_advanced.py`)
+- SuperCollider & Live Coding (`examples/supercollider_advanced.py`)
+
+Development:
+- Full-Stack Development (`examples/fullstack_development.py`)
+- Modern Frontend (`examples/frontend_masters.py`)
+- Backend Architecture (`examples/backend_advanced.py`)
+- DevOps & Cloud (`examples/devops_cloud.py`)
+- System Design (`examples/system_design.py`)
+
+Each example demonstrates searching for curated lists of topics in their respective domains and includes an interactive browser feature.
+
+### Running Examples
+
+Basic usage:
+```bash
+python examples/computer_graphics.py
+python examples/edm_production.py
+python examples/cinema4d_advanced.py
+# etc...
+```
+
+### Command Line Options
+
+All example scripts support the following command-line options:
+
+```bash
+# Show help and available options
+python examples/computer_graphics.py --help
+```
+
+Output:
+```
+Usage: computer_graphics.py [OPTIONS]
+
+Options:
+  --open    Open 3 random videos from search results in your default browser
+  --help    Show this help message
+
+Examples:
+  python computer_graphics.py         # Run normal search
+  python computer_graphics.py --open  # Search and open random videos
+```
+
+### Browser Integration
+
+To automatically open 3 random videos in your default browser, use the `--open` flag:
+```bash
+python examples/computer_graphics.py --open
+```
+
+The browser-opening feature:
+- Works cross-platform (Windows, macOS, Linux)
+- Opens 3 random videos from your search results
+- Uses the appropriate default browser for your OS
+- Provides fallback URLs if browser launching fails
+
+This works with all example scripts:
+```bash
+python examples/edm_production.py --open      # EDM production tutorials
+python examples/cinema4d_advanced.py --open    # Cinema 4D tutorials
+python examples/computer_music.py --open       # Music production tutorials
+# etc...
+```
 
 ## API Reference
 

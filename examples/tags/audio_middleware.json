@@ -1,0 +1,77 @@
+{
+    "name": "Audio Middleware",
+    "tags": {
+        "fmod_advanced": [
+            "FMOD Studio Advanced",
+            "FMOD API Programming",
+            "FMOD Event System",
+            "FMOD Adaptive Audio",
+            "FMOD Mixing System",
+            "FMOD Profiler Tools",
+            "FMOD DSP Effects",
+            "FMOD Parameter System",
+            "FMOD Integration C++",
+            "FMOD Memory Management"
+        ],
+        "wwise_professional": [
+            "Wwise Sound Engine",
+            "Wwise Spatial Audio",
+            "Wwise Interactive Music",
+            "Wwise Mixing Desk",
+            "Wwise State Systems",
+            "Wwise RTPC Advanced",
+            "Wwise Plugins Development",
+            "Wwise Optimization",
+            "Wwise Integration SDK",
+            "Wwise Sound Banks"
+        ],
+        "unity_audio_advanced": [
+            "Unity Audio Manager",
+            "Unity Audio Scripting",
+            "Unity Audio Mixing",
+            "Unity Audio Effects",
+            "Unity Spatial Audio",
+            "Unity Audio Performance",
+            "Unity Sound Design",
+            "Unity DSP Effects",
+            "Unity Audio Events",
+            "Unity Audio Pipeline"
+        ],
+        "unreal_audio_pro": [
+            "Unreal Audio System",
+            "Unreal Sound Cues",
+            "Unreal Audio Blueprint",
+            "Unreal Reverb Zones",
+            "Unreal Audio RTPC",
+            "Unreal Sound Attenuation",
+            "Unreal Audio Visualization",
+            "Unreal Modular Audio",
+            "Unreal Audio Streaming",
+            "Unreal Audio Optimization"
+        ],
+        "middleware_integration": [
+            "Audio Pipeline Design",
+            "Game Audio Architecture",
+            "Audio Memory Management",
+            "Audio Performance Optimization",
+            "Cross-platform Audio",
+            "Audio Build Systems",
+            "Audio Version Control",
+            "Audio Testing Framework",
+            "Audio Debug Tools",
+            "Audio Profiling Tools"
+        ],
+        "interactive_audio": [
+            "Adaptive Music Systems",
+            "Dynamic Audio Design",
+            "Procedural Audio",
+            "Audio State Management",
+            "Real-time Audio Processing",
+            "Audio Scripting Systems",
+            "Audio Mixing Strategy",
+            "Audio Content Management",
+            "Audio Parameter Control",
+            "Audio Event Systems"
+        ]
+    }
+}

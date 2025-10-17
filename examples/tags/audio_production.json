@@ -1,0 +1,77 @@
+{
+    "name": "Audio Production",
+    "tags": {
+        "advanced_recording": [
+            "Studio Recording Techniques",
+            "Microphone Placement Advanced",
+            "Multi-track Recording",
+            "Live Room Recording",
+            "Recording Chain Setup",
+            "Recording Console Operation",
+            "Digital Recording Systems",
+            "Analog Recording Methods",
+            "Mobile Recording Setup",
+            "Remote Recording Sessions"
+        ],
+        "sound_design": [
+            "Granular Synthesis Advanced",
+            "Modular Synthesis Design",
+            "Field Recording Techniques",
+            "Foley Art Production",
+            "Sound Effects Creation",
+            "Atmospheric Sound Design",
+            "Character Sound Design",
+            "Environmental Audio",
+            "Experimental Sound",
+            "Cinematic Sound Design"
+        ],
+        "mixing_engineering": [
+            "Advanced Mix Techniques",
+            "Stereo Field Processing",
+            "Multi-band Processing",
+            "Dynamic Range Control",
+            "Frequency Management",
+            "Mix Bus Processing",
+            "Parallel Processing",
+            "Mix Translation",
+            "Spatial Audio Mixing",
+            "Surround Sound Mixing"
+        ],
+        "mastering_techniques": [
+            "Professional Mastering Chain",
+            "Mastering EQ Techniques",
+            "Dynamic Processing Master",
+            "Limiting Techniques",
+            "Mid-Side Processing",
+            "Loudness Standards",
+            "Vinyl Mastering",
+            "Digital Distribution",
+            "Reference Level Matching",
+            "Master Quality Control"
+        ],
+        "daw_expertise": [
+            "Pro Tools Advanced",
+            "Logic Pro Expert",
+            "Ableton Live Master",
+            "Studio One Advanced",
+            "Cubase Professional",
+            "FL Studio Expert",
+            "Reaper Advanced",
+            "Bitwig Studio Pro",
+            "Digital Performer",
+            "Reason Advanced"
+        ],
+        "signal_processing": [
+            "Advanced Compression",
+            "Professional EQ",
+            "Multi-band Processing",
+            "Noise Reduction Pro",
+            "Time-based Effects",
+            "Harmonic Enhancement",
+            "Analog Processing",
+            "Digital Signal Flow",
+            "Audio Restoration",
+            "Creative Effects Chain"
+        ]
+    }
+}

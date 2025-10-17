@@ -1,0 +1,40 @@
+{
+    "name": "Development",
+    "tags": {
+        "frontend": [
+            "React Advanced",
+            "Vue.js Expert",
+            "Angular Architecture",
+            "Web Performance",
+            "Modern CSS"
+        ],
+        "backend": [
+            "Node.js Advanced",
+            "Python Backend",
+            "Java Spring",
+            "Microservices",
+            "API Design"
+        ],
+        "database": [
+            "SQL Advanced",
+            "NoSQL Design",
+            "Database Optimization",
+            "Data Modeling",
+            "Query Performance"
+        ],
+        "devops": [
+            "Docker Advanced",
+            "Kubernetes Expert",
+            "CI/CD Pipeline",
+            "Cloud Architecture",
+            "Infrastructure"
+        ],
+        "architecture": [
+            "System Design",
+            "Clean Architecture",
+            "Design Patterns",
+            "Scalable Systems",
+            "Performance"
+        ]
+    }
+}

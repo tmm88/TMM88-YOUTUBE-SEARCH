@@ -1,0 +1,77 @@
+{
+    "name": "Audio Programming",
+    "tags": {
+        "maxmsp_advanced": [
+            "Max Gen Programming",
+            "Max Objects Development",
+            "Max for Live Advanced",
+            "MSP Signal Processing",
+            "Max Data Structures",
+            "Max JavaScript Integration",
+            "Max External Development",
+            "Max Java Integration",
+            "Max Package Development",
+            "Real-time Processing Max"
+        ],
+        "puredata_development": [
+            "Pd External Development",
+            "Pd GUI Programming",
+            "Pd Signal Processing",
+            "Pd Data Structures",
+            "Pd Gem Graphics",
+            "Pd Network Protocol",
+            "Pd Library Development",
+            "Pd Hardware Integration",
+            "Pd Algorithmic Comp",
+            "Pd Performance Tools"
+        ],
+        "supercollider_expert": [
+            "SC Server Architecture",
+            "SC Synthesis Engine",
+            "SC Pattern Systems",
+            "SC Unit Generator Dev",
+            "SC Audio Analysis",
+            "SC GUI Programming",
+            "SC Network Music",
+            "SC Plugin Development",
+            "SC Algorithmic Comp",
+            "SC Live Coding Pro"
+        ],
+        "dsp_implementation": [
+            "Filter Implementation",
+            "FFT Processing",
+            "Wavelet Analysis",
+            "Audio Compression",
+            "Signal Processing Math",
+            "Audio Feature Extraction",
+            "Spectral Processing",
+            "Audio Effects DSP",
+            "Sample Rate Conversion",
+            "Convolution Processing"
+        ],
+        "audio_engines": [
+            "Audio Graph Design",
+            "Buffer Management",
+            "Audio Threading",
+            "Plugin Architecture",
+            "Real-time Scheduling",
+            "Audio Driver Development",
+            "MIDI System Design",
+            "Audio Engine Optimization",
+            "Cross-platform Audio",
+            "Audio API Development"
+        ],
+        "audio_software": [
+            "VST Plugin Development",
+            "Audio Unit Programming",
+            "AAX Development",
+            "JUCE Framework",
+            "WASAPI Programming",
+            "ASIO Implementation",
+            "CoreAudio Development",
+            "Audio Plugin GUI",
+            "DAW Integration",
+            "Audio Testing Systems"
+        ]
+    }
+}

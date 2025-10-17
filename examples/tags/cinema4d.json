@@ -1,0 +1,40 @@
+{
+    "name": "Cinema 4D",
+    "tags": {
+        "modeling": [
+            "C4D Modeling",
+            "Parametric Modeling",
+            "Character Creation",
+            "Hard Surface Modeling",
+            "Organic Modeling"
+        ],
+        "animation": [
+            "C4D Animation",
+            "Character Animation",
+            "Motion Graphics",
+            "Dynamics System",
+            "Xpresso Animation"
+        ],
+        "rendering": [
+            "Physical Renderer",
+            "Octane for C4D",
+            "Redshift C4D",
+            "Arnold Renderer",
+            "Rendering Optimization"
+        ],
+        "materials": [
+            "Material Creation",
+            "Texture Workflow",
+            "Shader Development",
+            "Material Animation",
+            "Procedural Textures"
+        ],
+        "workflow": [
+            "Project Setup",
+            "Asset Management",
+            "Pipeline Integration",
+            "Scene Organization",
+            "Production Workflow"
+        ]
+    }
+}

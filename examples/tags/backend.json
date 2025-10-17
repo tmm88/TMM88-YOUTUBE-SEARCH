@@ -1,0 +1,77 @@
+{
+    "name": "Backend Development",
+    "tags": {
+        "architecture_patterns": [
+            "Microservices Architecture",
+            "Event-Driven Design",
+            "Domain-Driven Design",
+            "CQRS Implementation",
+            "Event Sourcing",
+            "Hexagonal Architecture",
+            "Clean Architecture Backend",
+            "Service Mesh Design",
+            "API Gateway Patterns",
+            "Distributed Systems Design"
+        ],
+        "database_engineering": [
+            "Database Sharding",
+            "Replication Strategies",
+            "Query Optimization Advanced",
+            "Index Design Patterns",
+            "NoSQL Architecture",
+            "Database Clustering",
+            "Time-Series Databases",
+            "Graph Database Design",
+            "Data Warehouse Architecture",
+            "Database Security Patterns"
+        ],
+        "system_reliability": [
+            "High Availability Design",
+            "Fault Tolerance Patterns",
+            "Circuit Breaker Pattern",
+            "Resilience Engineering",
+            "Chaos Engineering",
+            "System Monitoring",
+            "Performance Profiling",
+            "Load Testing",
+            "Disaster Recovery",
+            "Incident Response"
+        ],
+        "security_advanced": [
+            "OAuth2 Implementation",
+            "JWT Security",
+            "API Security Advanced",
+            "Encryption Patterns",
+            "Security Testing",
+            "Access Control Systems",
+            "Security Compliance",
+            "Penetration Testing",
+            "Security Auditing",
+            "Zero Trust Architecture"
+        ],
+        "scalability": [
+            "Horizontal Scaling",
+            "Vertical Scaling",
+            "Caching Strategies",
+            "Load Balancing Advanced",
+            "Message Queue Systems",
+            "Distributed Caching",
+            "Database Scaling",
+            "Traffic Management",
+            "Resource Optimization",
+            "Performance Tuning"
+        ],
+        "cloud_native": [
+            "Kubernetes Advanced",
+            "Cloud Design Patterns",
+            "Serverless Architecture",
+            "Container Orchestration",
+            "Cloud Security",
+            "Infrastructure as Code",
+            "Service Discovery",
+            "Configuration Management",
+            "Cloud Cost Optimization",
+            "Multi-Cloud Strategy"
+        ]
+    }
+}

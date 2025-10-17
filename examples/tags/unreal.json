@@ -1,0 +1,77 @@
+{
+    "name": "Unreal Engine",
+    "tags": {
+        "cpp_programming": [
+            "UE5 C++ Architecture",
+            "Custom Engine Modifications",
+            "Gameplay Framework C++",
+            "Network Replication C++",
+            "Performance Optimization C++",
+            "Memory Management UE5",
+            "Module Development",
+            "Plugin Architecture",
+            "Subsystem Implementation",
+            "Engine Source Modifications"
+        ],
+        "graphics_rendering": [
+            "Lumen Global Illumination",
+            "Nanite Virtualized Geometry",
+            "Ray Tracing Implementation",
+            "Virtual Shadow Maps",
+            "Custom Shader Development",
+            "Material System Advanced",
+            "Post Process Pipeline",
+            "Dynamic Resolution",
+            "Rendering Pipeline UE5",
+            "Graphics Optimization"
+        ],
+        "gameplay_systems": [
+            "Gameplay Ability System Pro",
+            "Enhanced Input System",
+            "Game Feature Plugins",
+            "Save Game Systems",
+            "Game State Management",
+            "Multiplayer Framework",
+            "AI Systems Advanced",
+            "Data Asset Management",
+            "Quest System Design",
+            "Inventory Framework"
+        ],
+        "physics_simulation": [
+            "Chaos Physics Advanced",
+            "Physics Asset Tools",
+            "Physical Animation System",
+            "Vehicle Physics",
+            "Cloth Simulation",
+            "Rigid Body Dynamics",
+            "Constraint Systems",
+            "Physics Performance",
+            "Collision Detection",
+            "Physics Based Animation"
+        ],
+        "animation_rigging": [
+            "Control Rig Advanced",
+            "IK Rig Development",
+            "Animation Blueprint Pro",
+            "Pose Asset System",
+            "Animation Sharing",
+            "Full Body IK",
+            "Animation Graph",
+            "Retargeting System",
+            "Performance Capture",
+            "Procedural Animation"
+        ],
+        "blueprint_systems": [
+            "Blueprint Performance",
+            "Blueprint Interface Design",
+            "Custom Nodes Development",
+            "Blueprint Function Libraries",
+            "Visual Scripting Architecture",
+            "Event System Design",
+            "Blueprint Communication",
+            "Asset Management BP",
+            "Blueprint Security",
+            "Blueprint Debug Tools"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Unity3D",
+    "tags": {
+        "core_systems": [
+            "DOTS Architecture Advanced",
+            "Unity ECS Programming",
+            "Burst Compiler Optimization",
+            "Unity Job System Advanced",
+            "Memory Management Unity",
+            "Multi-threading Unity",
+            "Unity Serialization",
+            "Scene Management Pro",
+            "Asset Bundle Systems",
+            "Unity Profiler Advanced"
+        ],
+        "graphics_rendering": [
+            "HDRP Pipeline Advanced",
+            "URP Customization",
+            "Custom Render Pipeline",
+            "Shader Graph Advanced",
+            "VFX Graph Programming",
+            "HLSL Shaders Unity",
+            "Post Processing Stack",
+            "Graphics Jobs System",
+            "Volumetric Systems",
+            "Ray Tracing Unity"
+        ],
+        "gameplay_systems": [
+            "Input System Advanced",
+            "Scriptable Objects Architecture",
+            "Dependency Injection Unity",
+            "Event Systems Advanced",
+            "State Management Unity",
+            "Save System Architecture",
+            "Inventory System Design",
+            "Quest System Unity",
+            "Combat System Framework",
+            "AI Behavior Systems"
+        ],
+        "physics_simulation": [
+            "Physics System Advanced",
+            "Custom Physics Engine",
+            "Physics Based Animation",
+            "Ragdoll Systems",
+            "Vehicle Physics Unity",
+            "Cloth Simulation",
+            "Particle System Physics",
+            "Physics Performance",
+            "Collision Detection Advanced",
+            "Physics Based Gameplay"
+        ],
+        "animation_systems": [
+            "Animation Rigging Pro",
+            "Procedural Animation",
+            "State Machine Behavior",
+            "Timeline Advanced",
+            "IK Systems Unity",
+            "Blend Tree Programming",
+            "Animation Events System",
+            "Performance Capture",
+            "Facial Animation Unity",
+            "Animation Programming"
+        ],
+        "tooling_extensions": [
+            "Custom Editor Tools",
+            "Editor Scripting Advanced",
+            "Custom Inspector GUI",
+            "Asset Pipeline Extension",
+            "Build Pipeline Custom",
+            "Scene View Extensions",
+            "Unity Package Development",
+            "Custom Window Tools",
+            "Editor Utilities",
+            "Automation Tools Unity"
+        ]
+    }
+}

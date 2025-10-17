@@ -1,0 +1,77 @@
+{
+    "name": "Motion Graphics",
+    "tags": {
+        "design_principles": [
+            "Advanced Motion Design Theory",
+            "Motion Design Composition",
+            "Color Theory Animation",
+            "Typography Motion Design",
+            "Visual Hierarchy Animation",
+            "Storyboard Motion Design",
+            "Character Design Motion",
+            "Logo Animation Design",
+            "UI Motion Design",
+            "Brand Motion Guidelines"
+        ],
+        "after_effects": [
+            "After Effects Expressions",
+            "Advanced Animation AE",
+            "Character Animation AE",
+            "Complex Motion Graphics",
+            "Particle Systems AE",
+            "Advanced Effects AE",
+            "Script Development AE",
+            "3D Integration AE",
+            "Motion Tracking AE",
+            "Template Creation AE"
+        ],
+        "cinema4d": [
+            "C4D Advanced Animation",
+            "C4D Character Rigging",
+            "Procedural Animation C4D",
+            "Mograph Advanced C4D",
+            "Dynamic Systems C4D",
+            "Advanced Materials C4D",
+            "XPresso Programming",
+            "Custom Rigs C4D",
+            "Python Scripting C4D",
+            "Pipeline Integration C4D"
+        ],
+        "compositing": [
+            "Advanced Compositing",
+            "Multi-pass Compositing",
+            "3D Integration Compositing",
+            "Color Grading Advanced",
+            "Keying Techniques",
+            "Rotoscoping Advanced",
+            "Tracking Integration",
+            "Particle Integration",
+            "Lens Effects",
+            "Final Output Processing"
+        ],
+        "technical_skills": [
+            "Expression Programming",
+            "Script Development",
+            "Pipeline Automation",
+            "Render Optimization",
+            "Asset Management",
+            "Version Control Motion",
+            "Render Farm Setup",
+            "Network Rendering",
+            "Project Management",
+            "Technical Direction"
+        ],
+        "specialty_topics": [
+            "Experimental Animation",
+            "Data Visualization Motion",
+            "VR Motion Graphics",
+            "AR Motion Design",
+            "Projection Mapping",
+            "Live Events Graphics",
+            "Broadcast Graphics",
+            "Social Media Animation",
+            "Interactive Motion",
+            "Generative Art Motion"
+        ]
+    }
+}

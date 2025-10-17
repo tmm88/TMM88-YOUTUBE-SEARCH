@@ -1,0 +1,77 @@
+{
+    "name": "DevOps and Cloud",
+    "tags": {
+        "infrastructure_automation": [
+            "Terraform Advanced Patterns",
+            "CloudFormation Advanced",
+            "Pulumi Architecture",
+            "Ansible Automation",
+            "Infrastructure Testing",
+            "GitOps Implementation",
+            "Policy as Code",
+            "Infrastructure Monitoring",
+            "Cost Optimization IaC",
+            "Security as Code"
+        ],
+        "container_orchestration": [
+            "Kubernetes Advanced",
+            "Service Mesh Implementation",
+            "Container Security",
+            "Docker Optimization",
+            "Kubernetes Operators",
+            "Custom Controllers",
+            "Helm Advanced",
+            "Container Networking",
+            "Storage Orchestration",
+            "Cluster Management"
+        ],
+        "cicd_pipelines": [
+            "Pipeline Architecture",
+            "Jenkins Advanced",
+            "GitHub Actions Pro",
+            "GitLab CI Advanced",
+            "ArgoCD Implementation",
+            "Continuous Testing",
+            "Release Strategies",
+            "Pipeline Security",
+            "Deployment Patterns",
+            "Pipeline Optimization"
+        ],
+        "observability_monitoring": [
+            "Prometheus Advanced",
+            "Grafana Dashboards",
+            "ELK Stack Advanced",
+            "Distributed Tracing",
+            "Log Management",
+            "Metrics Collection",
+            "Alert Management",
+            "Performance Monitoring",
+            "System Observability",
+            "Monitoring Architecture"
+        ],
+        "cloud_architecture": [
+            "AWS Solutions Architect",
+            "Azure Architecture",
+            "GCP Infrastructure",
+            "Multi-Cloud Strategy",
+            "Cloud Security",
+            "Cost Management",
+            "Cloud Migration",
+            "Serverless Architecture",
+            "Cloud Networking",
+            "Disaster Recovery"
+        ],
+        "sre_practices": [
+            "SLO Implementation",
+            "Error Budgets",
+            "Chaos Engineering",
+            "Incident Management",
+            "Capacity Planning",
+            "Performance Analysis",
+            "Reliability Engineering",
+            "System Design SRE",
+            "Automation Strategy",
+            "Production Excellence"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Frontend Development",
+    "tags": {
+        "modern_frameworks": [
+            "React Architecture Patterns",
+            "Vue 3 Composition API",
+            "Angular Advanced Patterns",
+            "Next.js Enterprise",
+            "Svelte Advanced",
+            "Qwik Development",
+            "Solid.js Patterns",
+            "React Server Components",
+            "Micro-Frontend Architecture",
+            "Framework Performance"
+        ],
+        "state_management": [
+            "Redux Advanced Patterns",
+            "Zustand Implementation",
+            "Reactive State Design",
+            "XState Advanced",
+            "Recoil Patterns",
+            "MobX Architecture",
+            "Redux Toolkit Query",
+            "Context API Patterns",
+            "Jotai Advanced Usage",
+            "State Machines Frontend"
+        ],
+        "performance_optimization": [
+            "Runtime Performance",
+            "Bundle Optimization",
+            "Code Splitting Advanced",
+            "Memory Management",
+            "Rendering Optimization",
+            "Network Performance",
+            "Asset Optimization",
+            "Animation Performance",
+            "Web Vitals Optimization",
+            "Critical Rendering Path"
+        ],
+        "testing_quality": [
+            "Testing Architecture",
+            "Component Testing",
+            "E2E Testing Advanced",
+            "Performance Testing",
+            "Visual Regression",
+            "Accessibility Testing",
+            "Integration Testing",
+            "Test-Driven Development",
+            "Mocking Strategies",
+            "Testing Patterns"
+        ],
+        "build_tooling": [
+            "Webpack Advanced",
+            "Vite Configuration",
+            "Rollup Advanced",
+            "ESBuild Integration",
+            "TypeScript Configuration",
+            "Build Optimization",
+            "Module Federation",
+            "Development Tooling",
+            "CI/CD Frontend",
+            "Debugging Advanced"
+        ],
+        "architecture_patterns": [
+            "Component Architecture",
+            "Clean Architecture Frontend",
+            "Design System Development",
+            "API Integration Patterns",
+            "Scalable Frontend",
+            "Modular Design",
+            "Dependency Management",
+            "Code Organization",
+            "Feature Flags",
+            "Progressive Enhancement"
+        ]
+    }
+}

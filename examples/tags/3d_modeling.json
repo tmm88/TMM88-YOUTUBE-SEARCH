@@ -1,0 +1,77 @@
+{
+    "name": "3D Modeling",
+    "tags": {
+        "hard_surface": [
+            "CAD-based Modeling",
+            "Industrial Design 3D",
+            "Mechanical Modeling",
+            "Vehicle Modeling Advanced",
+            "Architectural Modeling",
+            "Product Design 3D",
+            "Hard Surface Topology",
+            "Parametric Modeling",
+            "Boolean Operations Advanced",
+            "Surface Modeling Pro"
+        ],
+        "organic_modeling": [
+            "Character Modeling Advanced",
+            "Creature Design 3D",
+            "Digital Sculpting Pro",
+            "Anatomy for 3D Artists",
+            "Facial Modeling",
+            "Cloth Modeling",
+            "Hair and Fur Systems",
+            "Muscle Systems",
+            "Dynamic Topology",
+            "Retopology Techniques"
+        ],
+        "texturing_materials": [
+            "Substance Painter Master",
+            "Substance Designer Advanced",
+            "Mari Texturing Pro",
+            "UV Mapping Professional",
+            "PBR Material Creation",
+            "Procedural Texturing",
+            "Hand Painted Textures",
+            "Texture Baking Advanced",
+            "Material Blend Systems",
+            "UDIM Workflow"
+        ],
+        "rigging_animation": [
+            "Advanced Character Rigging",
+            "Facial Rigging System",
+            "Muscle Rigging",
+            "Procedural Animation",
+            "Advanced Joint Setup",
+            "Custom Controllers",
+            "Deformation System",
+            "Python Rigging Tools",
+            "Motion System Design",
+            "Performance Capture Rigging"
+        ],
+        "technical_direction": [
+            "Pipeline Development",
+            "Tool Programming 3D",
+            "Asset Management Systems",
+            "Automation Scripts",
+            "Quality Assurance 3D",
+            "Version Control 3D",
+            "Scene Assembly",
+            "Performance Optimization",
+            "Data Management",
+            "Technical Documentation"
+        ],
+        "production_pipeline": [
+            "Production Management",
+            "Asset Tracking Systems",
+            "Collaborative Workflow",
+            "Resource Optimization",
+            "Pipeline Integration",
+            "Asset Publishing",
+            "Review Systems",
+            "Production Standards",
+            "Team Coordination",
+            "Delivery Systems"
+        ]
+    }
+}

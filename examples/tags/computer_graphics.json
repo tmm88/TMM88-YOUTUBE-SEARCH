@@ -1,0 +1,77 @@
+{
+    "name": "Computer Graphics",
+    "tags": {
+        "realtime_graphics": [
+            "DirectX 12 Advanced Programming",
+            "Vulkan Graphics API",
+            "OpenGL Modern Pipeline",
+            "Metal Graphics Apple",
+            "Real-time Rendering Optimization",
+            "GPU Programming Advanced",
+            "Compute Shader Development",
+            "Graphics Pipeline Architecture",
+            "High Performance Graphics",
+            "Modern Graphics API Design"
+        ],
+        "engine_development": [
+            "Game Engine Architecture",
+            "Graphics Engine Design",
+            "Physics Engine Integration",
+            "Renderer Development",
+            "Scene Graph Implementation",
+            "Asset Pipeline Development",
+            "Memory Management Graphics",
+            "Multi-threading Graphics",
+            "Engine Optimization",
+            "Custom Engine Features"
+        ],
+        "rendering_techniques": [
+            "Path Tracing Implementation",
+            "Ray Tracing RTX",
+            "Global Illumination Methods",
+            "PBR Implementation",
+            "Volumetric Rendering",
+            "Screen Space Effects",
+            "Dynamic Shadows Advanced",
+            "Deferred Rendering",
+            "Forward+ Rendering",
+            "Advanced Lighting Models"
+        ],
+        "shader_programming": [
+            "HLSL Advanced Techniques",
+            "GLSL Shader Development",
+            "Compute Shader Algorithms",
+            "Surface Shader Programming",
+            "Post-Processing Effects",
+            "Geometry Shader Techniques",
+            "Tessellation Shaders",
+            "Custom Shader Graph",
+            "Shader Optimization",
+            "Material System Design"
+        ],
+        "mathematics": [
+            "Computer Graphics Math",
+            "Linear Algebra Graphics",
+            "Quaternion Mathematics",
+            "Geometric Algebra",
+            "Matrix Transformations",
+            "Numerical Methods Graphics",
+            "Vector Calculus Graphics",
+            "Projection Mathematics",
+            "Animation Mathematics",
+            "Collision Detection Math"
+        ],
+        "advanced_topics": [
+            "Machine Learning Graphics",
+            "Neural Rendering",
+            "Procedural Generation",
+            "Voxel Rendering",
+            "Point Cloud Rendering",
+            "Real-time Ray Tracing",
+            "GPU Architecture",
+            "Graphics Research Topics",
+            "Next-Gen Graphics Tech",
+            "Advanced Rendering Papers"
+        ]
+    }
+}
