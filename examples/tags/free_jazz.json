@@ -1,0 +1,77 @@
+{
+    "name": "Free Jazz",
+    "tags": {
+        "pioneers": [
+            "Ornette Coleman Harmolodics",
+            "Cecil Taylor Piano Technique",
+            "Albert Ayler Spiritual Jazz",
+            "Eric Dolphy Advanced Concepts",
+            "John Coltrane Late Period",
+            "Sun Ra Arkestra Analysis",
+            "Pharoah Sanders Style",
+            "Don Cherry Pocket Trumpet",
+            "Archie Shepp Technique",
+            "Anthony Braxton Systems"
+        ],
+        "european_free": [
+            "Peter Brötzmann Style",
+            "Derek Bailey Guitar",
+            "Evan Parker Saxophone",
+            "Han Bennink Drums",
+            "Alexander von Schlippenbach",
+            "Paul Rutherford Trombone",
+            "John Stevens Approach",
+            "Barry Guy Bass",
+            "Tony Oxley Percussion",
+            "Misha Mengelberg Piano"
+        ],
+        "modern_practitioners": [
+            "Ken Vandermark Methods",
+            "John Zorn Game Pieces",
+            "William Parker Bass",
+            "Matthew Shipp Piano",
+            "Nate Wooley Trumpet",
+            "Mary Halvorson Guitar",
+            "Peter Evans Technique",
+            "Tyshawn Sorey Concepts",
+            "Matana Roberts Study",
+            "Craig Taborn Style"
+        ],
+        "theory_concepts": [
+            "Non-idiomatic Improvisation",
+            "Energy Music Analysis",
+            "Group Dynamics Study",
+            "Extended Techniques",
+            "Conduction Methods",
+            "Free Time Concepts",
+            "Collective Improvisation",
+            "Soundscape Development",
+            "Microtonality Practice",
+            "Gestural Language"
+        ],
+        "instrumental_approaches": [
+            "Saxophone Multiphonics",
+            "Piano Preparation Methods",
+            "Bass Extended Techniques",
+            "Drum Set Liberation",
+            "Trumpet Extensions",
+            "Guitar Preparations",
+            "Electronic Integration",
+            "Voice As Instrument",
+            "Small Percussion Usage",
+            "Wind Instrument Effects"
+        ],
+        "ensemble_practices": [
+            "Large Ensemble Direction",
+            "Small Group Interaction",
+            "Duo Format Studies",
+            "Solo Performance",
+            "Conduction Techniques",
+            "Workshop Methods",
+            "Recording Approaches",
+            "Live Performance",
+            "Rehearsal Strategies",
+            "Audience Interaction"
+        ]
+    }
+}

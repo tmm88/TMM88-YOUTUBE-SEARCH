@@ -1,0 +1,77 @@
+{
+    "name": "Electroacoustic Music",
+    "tags": {
+        "pioneers_history": [
+            "Pierre Schaeffer Techniques",
+            "Karlheinz Stockhausen Analysis",
+            "Pierre Henry Methods",
+            "Iannis Xenakis UPIC",
+            "Luciano Berio Studio Work",
+            "Delia Derbyshire BBC",
+            "Eliane Radigue ARP",
+            "Bernard Parmegiani Style",
+            "Luc Ferrari Landscapes",
+            "Hugh Davies Instruments"
+        ],
+        "composition_techniques": [
+            "Musique Concrete Methods",
+            "Granular Synthesis",
+            "Spectral Processing",
+            "Acousmatic Composition",
+            "Sound Object Theory",
+            "Mixed Music Techniques",
+            "Live Electronics",
+            "Soundscape Composition",
+            "Microsound Techniques",
+            "Reduced Listening"
+        ],
+        "studio_techniques": [
+            "Tape Music Methods",
+            "Digital Processing",
+            "Field Recording",
+            "Studio Mixing EA",
+            "Spatial Audio",
+            "Multitrack Techniques",
+            "Sound Diffusion",
+            "Signal Processing",
+            "Sound Transformation",
+            "Audio Restoration"
+        ],
+        "software_tools": [
+            "Max MSP Tutorial",
+            "Csound Programming",
+            "Pure Data Patches",
+            "SuperCollider Coding",
+            "Kyma System",
+            "Acousmographe Use",
+            "AudioSculpt Analysis",
+            "GRM Tools Effects",
+            "OpenMusic Composition",
+            "Spatialization Software"
+        ],
+        "hardware_instruments": [
+            "Buchla Synthesizer",
+            "Serge Modular",
+            "Analog Processing",
+            "Digital Hardware",
+            "Custom Interfaces",
+            "Contact Microphones",
+            "Speaker Systems",
+            "Control Surfaces",
+            "Audio Interfaces",
+            "DIY Electronics"
+        ],
+        "performance_installation": [
+            "Sound Installation",
+            "Multichannel Systems",
+            "Interactive Systems",
+            "Live Processing",
+            "Sensor Integration",
+            "Real-time Control",
+            "Space Design",
+            "Audience Interaction",
+            "Sound Projection",
+            "Performance Practice"
+        ]
+    }
+}
